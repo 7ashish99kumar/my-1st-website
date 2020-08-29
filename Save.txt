@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8"/>
+	<title>MyWebsite</title>
+
+<style>
+	.data-right{
+		float:right;
+		text-align: center;
+		background-color: pink;
+	}
+</style>
+
+</head>
+
+<body>
+	<h1>Ashish Kumar</h1>
+	<p><i>To search for a position that will help me to improve my
+current Programming , Communication and Teamwork Skills</i></p>
+
+<h2>Skills</h2>
+<ul>
+	<li>Front End Developer</li>
+	<ul>
+		<li>HTML</li>
+		<li>CSS</li>
+	</ul>
+	<li>Language : C++</li>
+	<li>Data Structures</li>
+	<li>Algorithms</li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+	<li><h3>Netaji Subhas University of Technology</h3></li>
+		<ul>
+			<li>2018-2022 B.E in Information Technology</li>
+			<li>CGPA - 9.18</li>
+		</ul>
+</ul>
+
+<h2>Experience</h2>
+<ul>
+	<li><h3>SAMSUNG R&D Institute Bangalore</h3></li>
+		<ul>
+			<li>18 May - 13 July 2020</li>
+			<li>Project : Representing Bone Locations in a Rigged Mesh as a Function of Vertices</li>
+		</ul>
+</ul>
+
+<section class="data-right">
+<h2>Scholastic Achievements</h2>
+<ul>
+	<li>Department Rank-1 in 1st Year NSUT</li>
+
+</ul>
+
+	</section>
+
+</body>
+
+</html>
